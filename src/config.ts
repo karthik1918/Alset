@@ -5,7 +5,7 @@ export class Config {
   public wordpressApiUrl = 'http://demo.titaniumtemplates.com/wordpress/?json=1';
   public facebook = {
     apiUrl: 'https://graph.facebook.com/v2.10/',
-    appId: '114716779230085',
+    appId: '116050235762687',
     scope: ['email']
   };
   public google = {
